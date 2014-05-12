@@ -57,6 +57,12 @@ More details on the methods used in these scripts can be found in the following 
 
 ======
 
+## Authors
+
 D. Dutykh & D. Clamond  
 [www.denys-dutykh.com](http://www.denys-dutykh.com/)  
 [math.unice.fr/~didierc/](http://math.unice.fr/~didierc/)
+
+## Licence
+
+Open source under the [MIT licence](http://opensource.org/licenses/MIT).
