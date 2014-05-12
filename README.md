@@ -51,9 +51,9 @@ The script *SolitaryGravityAmplitude.m* can be used in a similar way with the on
 
 More details on the methods used in these scripts can be found in the following references:
 
-* D. Clamond & D. Dutykh. *Fast accurate computation of the fully nonlinear solitary surface gravity waves*. Computers & Fluids, **84**, 35-38, 2013
+* D. Clamond & D. Dutykh. *[Fast accurate computation of the fully nonlinear solitary surface gravity waves](http://hal.archives-ouvertes.fr/hal-00759812/)*. Computers & Fluids, **84**, 35-38, 2013
 
-* D. Dutykh & D. Clamond. *Efficient computation of steady solitary gravity waves*. Wave Motion, **51**, 86-99, 2014
+* D. Dutykh & D. Clamond. *[Efficient computation of steady solitary gravity waves](http://hal.archives-ouvertes.fr/hal-00786077/)*. Wave Motion, **51**, 86-99, 2014
 
 ======
 
