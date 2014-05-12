@@ -5,6 +5,10 @@
 
 These Matlab scripts compute the steady irrotational surface solitary gravity wave solution of the Euler equations (homogeneous, incompressible and perfect fluids). The wave is defined by its Froude number *Fr* and the result is about fifteen digits accurate. The method works for all but the highest waves, *i.e.* for all amplitude/depth ratio less than 0.796.
 
+### Another source:
+
+Please, note that this script can be also downloaded from the [Matlab Central](http://www.mathworks.fr/matlabcentral/fileexchange/39189-solitary-water-wave/) server.
+
 ## Synopsis:
 
 * SolitaryGravityWave(Fr, [], 1); % *plot results only*
