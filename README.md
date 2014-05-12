@@ -1,4 +1,4 @@
-->![Solitary wave](http://www.mathworks.fr/matlabcentral/fileexchange/screenshots/8209/original.jpg)<-
+![Solitary wave](http://www.mathworks.fr/matlabcentral/fileexchange/screenshots/8209/original.jpg)
 
 # Solitary gravity wave computation
 ======
@@ -54,7 +54,5 @@ More details on the methods used in these scripts can be found in the following 
 ======
 
 D. Dutykh & D. Clamond
-
-[wwww.denys-dutykh.com](http://www.denys-dutykh.com/)
-
+[www.denys-dutykh.com](http://www.denys-dutykh.com/)
 [math.unice.fr/~didierc/](http://math.unice.fr/~didierc/)
