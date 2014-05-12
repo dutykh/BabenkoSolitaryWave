@@ -53,6 +53,6 @@ More details on the methods used in these scripts can be found in the following 
 
 ======
 
-D. Dutykh & D. Clamond
-[www.denys-dutykh.com](http://www.denys-dutykh.com/)
+D. Dutykh & D. Clamond  
+[www.denys-dutykh.com](http://www.denys-dutykh.com/)  
 [math.unice.fr/~didierc/](http://math.unice.fr/~didierc/)
