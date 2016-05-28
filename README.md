@@ -1,4 +1,4 @@
-![Solitary wave](http://www.mathworks.fr/matlabcentral/fileexchange/screenshots/8209/original.jpg)
+![Solitary wave](pics/velocities.png)
 
 # Solitary gravity wave computation
 ======
